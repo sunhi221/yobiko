@@ -1,7 +1,11 @@
-.intro{
-    color:blue;
+.title{
+    font-family:serif;
 }
 
-h1{
-    color:red;
+div.newicon{
+    text-align: left;
+}
+img.newicon{
+    width:50px;
+    height:25px;
 }
