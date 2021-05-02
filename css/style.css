@@ -55,28 +55,44 @@ div#newicon{
     float:right;
 }
 
-img.background_zisseki{
-    
-}
 
 img.newicon{
     width:50px;
     height:25px;
 }
 
+.two_contents{
+   
+    display:flex;
+    justify-content: center;
+}
+
+
 div#nintei{
     background-color: royalblue;
     color:white;
+    padding:5px;
+    width:200px;
+    margin:10px;
+
 }
+
 
 div#kango{
     background-color: royalblue;
     color:white;
+    padding:5px;
+    margin:10px;
+    width:200px;
+    
 }
 
 div#zisseki{
     background-color: royalblue;
     color:white;
+    margin:10px;
+    padding:2px;
+    
 }
 
 
