@@ -2,6 +2,13 @@
     font-family:serif;
 }
 
+h3.tusin_icon{
+    
+    border:solid;
+    border-color:blue;
+
+}
+
 div.newicon{
     text-align: left;
 }
