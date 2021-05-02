@@ -126,3 +126,8 @@ div.intro1{
     background-color: silver;
     padding:20px;
 }
+
+img.first_intro{
+    width:80%;
+    height:80%;
+}
