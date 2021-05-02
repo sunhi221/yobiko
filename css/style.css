@@ -1,21 +1,80 @@
-.title{
-    font-family:serif;
+
+header{
+    color:midnightblue;
+    background-color:white;
+    float:left;
+    width:100%
 }
 
-h3.tusin_icon{
-    
+img.logo{
+    width:60px;
+    height: 60px;
+}
+
+.logo_top{
+    float:left;
+    padding-bottom: 5px;
+    padding-top:5px;
+}
+
+body{
+    background-color: powderblue;
+    text-align: center;
+}
+
+.top{
+    float:left;
+}
+
+p.title{
+    font-size:2px;
+}
+
+.tusin_icon{
+    float:left;
     border:solid;
     border-color:blue;
+    border-width:thin;
+    border-radius: 0.3em;
+    font-size: large;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+
+.title{
+    font-family:serif;
 
 }
 
-div.newicon{
-    text-align: left;
+div#news{
+    margin:0 auto;
 }
+
+div#newicon{
+    float:right;
+}
+
 img.newicon{
     width:50px;
     height:25px;
 }
+
+div#nintei{
+    background-color: royalblue;
+    color:white;
+}
+
+div#kango{
+    background-color: royalblue;
+    color:white;
+}
+
+div#zisseki{
+    background-color: royalblue;
+    color:white;
+}
+
 
 .subtitle{
     color:cornflowerblue
