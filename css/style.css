@@ -137,6 +137,16 @@ div.siken_detail{
 
 }
 
+
+img.koukou{
+    float:left;
+    width:10%;
+}
+img.nurse{
+    float:right;
+    width:20%;
+}
+
 div.intro1{
     background-color:whitesmoke;
     padding:20px;
