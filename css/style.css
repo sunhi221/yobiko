@@ -122,25 +122,46 @@ div#zisseki{
 
 
 .subtitle{
-    color:cornflowerblue
+    color:cornflowerblue;
+    margin:5%;
 }
 
-div.nintei_detail{
-    background-color:darkcyan;
-    margin-top:20px;
-    margin-bottom: 20px;
-    margin-left: 5%;
-    margin-right:5%;
+div.nintei_detail,
+div.siken_detail{
+    background-color:turquoise;
+    margin-top:2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right:10%;
     padding:30px;
 
 }
 
 div.intro1{
-    background-color: silver;
+    background-color:whitesmoke;
+    padding:20px;
+}
+div.intro2{
     padding:20px;
 }
 
 img.first_intro{
     width:80%;
     height:80%;
+}
+
+div.corse_intro{
+    background-color:whitesmoke;
+    padding-top: 5%;
+    padding-bottom:5%;
+}
+
+
+div.kounin_detail{
+    margin:10%;
+    text-align: right;
+}
+div.iryou_detail{
+    margin:10%;
+    text-align: left;
 }
