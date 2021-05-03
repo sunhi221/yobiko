@@ -127,7 +127,8 @@ div#zisseki{
 }
 
 div.nintei_detail,
-div.siken_detail{
+div.siken_detail,
+div.mousikomi{
     background-color:turquoise;
     margin-top:2%;
     margin-bottom: 2%;
@@ -179,5 +180,21 @@ div.iryou_detail{
 
 div.zisseki_list{
     margin:2%;
-    text-align: center;
+    text-align: left;
+}
+
+
+div.poem{
+    background-color:lightsteelblue;
+    padding:2%;
+}
+
+.schedule{
+    background-color:lightsteelblue;
+    margin:5%;
+    padding:5%;
+}
+
+div.tusin{
+    background-color:whitesmoke;
 }
