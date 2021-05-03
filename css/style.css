@@ -168,10 +168,16 @@ div.corse_intro{
 
 
 div.kounin_detail{
-    margin:10%;
+    margin:5%;
     text-align: right;
 }
 div.iryou_detail{
-    margin:10%;
+    margin:5%;
     text-align: left;
+    float:left;
+}
+
+div.zisseki_list{
+    margin:2%;
+    text-align: center;
 }
